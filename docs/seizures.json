@@ -1,6 +1,6 @@
 [
     {
-        "File Name": "chb01_03.edf",
+        "File Name": "chb01/chb01_03.edf",
         "Seizures": [
             {
                 "Start": 2996,
@@ -9,7 +9,7 @@
         ]
     },
     {
-        "File Name": "chb01_04.edf",
+        "File Name": "chb01/chb01_04.edf",
         "Seizures": [
             {
                 "Start": 1467,
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "File Name": "chb01_15.edf",
+        "File Name": "chb01/chb01_15.edf",
         "Seizures": [
             {
                 "Start": 1732,
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "File Name": "chb01_16.edf",
+        "File Name": "chb01/chb01_16.edf",
         "Seizures": [
             {
                 "Start": 1015,
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "File Name": "chb01_18.edf",
+        "File Name": "chb01/chb01_18.edf",
         "Seizures": [
             {
                 "Start": 1720,
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "File Name": "chb01_21.edf",
+        "File Name": "chb01/chb01_21.edf",
         "Seizures": [
             {
                 "Start": 327,
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "File Name": "chb01_26.edf",
+        "File Name": "chb01/chb01_26.edf",
         "Seizures": [
             {
                 "Start": 1862,
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "File Name": "chb02_16.edf",
+        "File Name": "chb02/chb02_16.edf",
         "Seizures": [
             {
                 "Start": 130,
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "File Name": "chb02_16+.edf",
+        "File Name": "chb02/chb02_16+.edf",
         "Seizures": [
             {
                 "Start": 2972,
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "File Name": "chb02_19.edf",
+        "File Name": "chb02/chb02_19.edf",
         "Seizures": [
             {
                 "Start": 3369,
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "File Name": "chb03_01.edf",
+        "File Name": "chb03/chb03_01.edf",
         "Seizures": [
             {
                 "Start": 362,
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "File Name": "chb03_02.edf",
+        "File Name": "chb03/chb03_02.edf",
         "Seizures": [
             {
                 "Start": 731,
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "File Name": "chb03_03.edf",
+        "File Name": "chb03/chb03_03.edf",
         "Seizures": [
             {
                 "Start": 432,
@@ -117,7 +117,7 @@
         ]
     },
     {
-        "File Name": "chb03_04.edf",
+        "File Name": "chb03/chb03_04.edf",
         "Seizures": [
             {
                 "Start": 2162,
@@ -126,7 +126,7 @@
         ]
     },
     {
-        "File Name": "chb03_34.edf",
+        "File Name": "chb03/chb03_34.edf",
         "Seizures": [
             {
                 "Start": 1982,
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "File Name": "chb03_35.edf",
+        "File Name": "chb03/chb03_35.edf",
         "Seizures": [
             {
                 "Start": 2592,
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "File Name": "chb03_36.edf",
+        "File Name": "chb03/chb03_36.edf",
         "Seizures": [
             {
                 "Start": 1725,
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "File Name": "chb04_05.edf",
+        "File Name": "chb04/chb04_05.edf",
         "Seizures": [
             {
                 "Start": 7804,
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "File Name": "chb04_08.edf",
+        "File Name": "chb04/chb04_08.edf",
         "Seizures": [
             {
                 "Start": 6446,
@@ -171,7 +171,7 @@
         ]
     },
     {
-        "File Name": "chb04_28.edf",
+        "File Name": "chb04/chb04_28.edf",
         "Seizures": [
             {
                 "Start": 1679,
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "File Name": "chb05_06.edf",
+        "File Name": "chb05/chb05_06.edf",
         "Seizures": [
             {
                 "Start": 417,
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "File Name": "chb05_13.edf",
+        "File Name": "chb05/chb05_13.edf",
         "Seizures": [
             {
                 "Start": 1086,
@@ -202,7 +202,7 @@
         ]
     },
     {
-        "File Name": "chb05_16.edf",
+        "File Name": "chb05/chb05_16.edf",
         "Seizures": [
             {
                 "Start": 2317,
@@ -211,7 +211,7 @@
         ]
     },
     {
-        "File Name": "chb05_17.edf",
+        "File Name": "chb05/chb05_17.edf",
         "Seizures": [
             {
                 "Start": 2451,
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "File Name": "chb05_22.edf",
+        "File Name": "chb05/chb05_22.edf",
         "Seizures": [
             {
                 "Start": 2348,
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "File Name": "chb06_01.edf",
+        "File Name": "chb06/chb06_01.edf",
         "Seizures": [
             {
                 "Start": 1724,
@@ -246,7 +246,7 @@
         ]
     },
     {
-        "File Name": "chb06_04.edf",
+        "File Name": "chb06/chb06_04.edf",
         "Seizures": [
             {
                 "Start": 327,
@@ -259,7 +259,7 @@
         ]
     },
     {
-        "File Name": "chb06_09.edf",
+        "File Name": "chb06/chb06_09.edf",
         "Seizures": [
             {
                 "Start": 12500,
@@ -268,7 +268,7 @@
         ]
     },
     {
-        "File Name": "chb06_10.edf",
+        "File Name": "chb06/chb06_10.edf",
         "Seizures": [
             {
                 "Start": 10833,
@@ -277,7 +277,7 @@
         ]
     },
     {
-        "File Name": "chb06_13.edf",
+        "File Name": "chb06/chb06_13.edf",
         "Seizures": [
             {
                 "Start": 506,
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "File Name": "chb06_18.edf",
+        "File Name": "chb06/chb06_18.edf",
         "Seizures": [
             {
                 "Start": 7799,
@@ -295,7 +295,7 @@
         ]
     },
     {
-        "File Name": "chb06_24.edf",
+        "File Name": "chb06/chb06_24.edf",
         "Seizures": [
             {
                 "Start": 9387,

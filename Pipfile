@@ -13,6 +13,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
+mne = "*"
 
 [requires]
 python_version = "3.8"
