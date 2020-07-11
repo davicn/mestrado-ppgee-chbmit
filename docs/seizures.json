@@ -307,8 +307,8 @@
         "File Name": "chb07/chb07_12.edf",
         "Seizures": [
             {
-                "Start Time": 4920,
-                "End Time": 5006
+                "Start": 4920,
+                "End": 5006
             }
         ]
     },
@@ -316,8 +316,8 @@
         "File Name": "chb07/chb07_13.edf",
         "Seizures": [
             {
-                "Start Time": 3285,
-                "End Time": 3381
+                "Start": 3285,
+                "End": 3381
             }
         ]
     },
@@ -325,8 +325,8 @@
         "File Name": "chb07/chb07_19.edf",
         "Seizures": [
             {
-                "Start Time": 13688,
-                "End Time": 13831
+                "Start": 13688,
+                "End": 13831
             }
         ]
     },
@@ -334,8 +334,8 @@
         "File Name": "chb08/chb08_02.edf",
         "Seizures": [
             {
-                "Start Time": 2670,
-                "End Time": 2841
+                "Start": 2670,
+                "End": 2841
             }
         ]
     },
@@ -343,8 +343,8 @@
         "File Name": "chb08/chb08_05.edf",
         "Seizures": [
             {
-                "Start Time": 2856,
-                "End Time": 3046
+                "Start": 2856,
+                "End": 3046
             }
         ]
     },
@@ -352,8 +352,8 @@
         "File Name": "chb08/chb08_11.edf",
         "Seizures": [
             {
-                "Start Time": 2988,
-                "End Time": 3122
+                "Start": 2988,
+                "End": 3122
             }
         ]
     },
@@ -361,8 +361,8 @@
         "File Name": "chb08/chb08_13.edf",
         "Seizures": [
             {
-                "Start Time": 2417,
-                "End Time": 2577
+                "Start": 2417,
+                "End": 2577
             }
         ]
     },
@@ -370,10 +370,197 @@
         "File Name": "chb08/chb08_21.edf",
         "Seizures": [
             {
-                "Start Time": 2083,
-                "End Time": 2347
+                "Start": 2083,
+                "End": 2347
+            }
+        ]
+    },
+    {
+        "File Name": "chb09/chb09_06.edf",
+        "Seizures": [
+            {
+                "Start": 12231,
+                "End": 12295
+            }
+        ]
+    },
+    {
+        "File Name": "chb09/chb09_08.edf",
+        "Seizures": [
+            {
+                "Start": 2951,
+                "End": 3030
+            },
+            {
+                "Start": 9196,
+                "End": 9267
+            }
+        ]
+    },
+    {
+        "File Name": "chb09/chb09_19.edf",
+        "Seizures": [
+            {
+                "Start": 5299,
+                "End": 5361
+            }
+        ]
+    },
+    {
+        "File Name": "chb10/chb10_12.edf",
+        "Seizures": [
+            {
+                "Start": 6313,
+                "End": 6348
+            }
+        ]
+    },
+    {
+        "File Name": "chb10/chb10_20.edf",
+        "Seizures": [
+            {
+                "Start": 6888,
+                "End": 6958
+            }
+        ]
+    },
+    {
+        "File Name": "chb10/chb10_27.edf",
+        "Seizures": [
+            {
+                "Start": 2382,
+                "End": 2447
+            }
+        ]
+    },
+    {
+        "File Name": "chb10/chb10_30.edf",
+        "Seizures": [
+            {
+                "Start": 3021,
+                "End": 3079
+            }
+        ]
+    },
+    {
+        "File Name": "chb10/chb10_31.edf",
+        "Seizures": [
+            {
+                "Start": 3801,
+                "End": 3877
+            }
+        ]
+    },
+    {
+        "File Name": "chb10/chb10_38.edf",
+        "Seizures": [
+            {
+                "Start": 4618,
+                "End": 4707
+            }
+        ]
+    },
+    {
+        "File Name": "chb10/chb10_89.edf",
+        "Seizures": [
+            {
+                "Start": 1383,
+                "End": 1437
+            }
+        ]
+    },
+    {
+        "File Name": "chb11/chb11_82.edf",
+        "Seizures": [
+            {
+                "Start": 298,
+                "End": 320
+            }
+        ]
+    },
+    {
+        "File Name": "chb11/chb11_92.edf",
+        "Seizures": [
+            {
+                "Start": 2695,
+                "End": 2727
+            }
+        ]
+    },
+    {
+        "File Name": "chb11/chb11_99.edf",
+        "Seizures": [
+            {
+                "Start": 1454,
+                "End": 2206
+            }
+        ]
+    },
+    {
+        "File Name": "chb14/chb14_03.edf",
+        "Seizures": [
+            {
+                "Start": 1986,
+                "End": 2000
+            }
+        ]
+    },
+    {
+        "File Name": "chb14/chb14_04.edf",
+        "Seizures": [
+            {
+                "Start": 1372,
+                "End": 1392
+            },
+            {
+                "Start": 2817,
+                "End": 2839
+            }
+        ]
+    },
+    {
+        "File Name": "chb14/chb14_06.edf",
+        "Seizures": [
+            {
+                "Start": 1911,
+                "End": 1925
+            }
+        ]
+    },
+    {
+        "File Name": "chb14/chb14_11.edf",
+        "Seizures": [
+            {
+                "Start": 1838,
+                "End": 1879
+            }
+        ]
+    },
+    {
+        "File Name": "chb14/chb14_17.edf",
+        "Seizures": [
+            {
+                "Start": 3239,
+                "End": 3259
+            }
+        ]
+    },
+    {
+        "File Name": "chb14/chb14_18.edf",
+        "Seizures": [
+            {
+                "Start": 1039,
+                "End": 1061
+            }
+        ]
+    },
+    {
+        "File Name": "chb14/chb14_27.edf",
+        "Seizures": [
+            {
+                "Start": 2833,
+                "End": 2849
             }
         ]
     }
 ]
-
